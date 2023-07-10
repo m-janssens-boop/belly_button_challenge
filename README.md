@@ -22,3 +22,4 @@ Build an interactive dashboard to explore the [Belly Button Biodiversity dataset
 - Display each key-value pair from the metadata JSON object somewhere on the page.
 - Update all the plots when a new sample is selected.
 - Deploy your app to a free static page hosting service, link can be found here.
+<img width="792" alt="Screenshot 2023-07-10 at 12 52 24 PM" src="https://github.com/m-janssens-boop/belly_button_challenge/assets/127706155/c571ec97-c42c-4d64-a1d8-ab04a1660d0e">
