@@ -21,5 +21,5 @@ Build an interactive dashboard to explore the [Belly Button Biodiversity dataset
 - Display the sample metadata, i.e., an individual's demographic information.
 - Display each key-value pair from the metadata JSON object somewhere on the page.
 - Update all the plots when a new sample is selected.
-- Deploy app to GitHub Pages.
+- Deploy [app](https://github.com/m-janssens-boop/m-janssens-boop.github.io.git) to GitHub Pages.
 <img width="792" alt="Screenshot 2023-07-10 at 12 52 24 PM" src="https://github.com/m-janssens-boop/belly_button_challenge/assets/127706155/c571ec97-c42c-4d64-a1d8-ab04a1660d0e">
